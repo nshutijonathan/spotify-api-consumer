@@ -1,0 +1,4 @@
+{
+    "authEndpointUrl":"https://accounts.spotify.com/authorize",
+    "logoutEndPointUrl":"https://spotify.com/logout"
+}
