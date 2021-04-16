@@ -37,7 +37,7 @@ const Dashboard = (props) => {
   return (
     <div>
       <Header />
-      <SearchForm handleSearch={handleSearch} />
+      <SearchForm />
       {/* <Loader show={isLoading}>Loading...</Loader> */}
     </div>
   );
